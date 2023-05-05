@@ -1,0 +1,17 @@
+html, body, textarea {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: "#282828";
+}
+
+textarea {
+  font-family: monospace;
+  color: #fbf1c7;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  background-color: #1d2021;
+  padding: 1rem;
+}
